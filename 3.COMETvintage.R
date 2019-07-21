@@ -3,7 +3,7 @@
 #
 # COMETgazer for methylation analysis
 # 
-# By: Emanuele Libertini
+# By: Emanuele Libertini & Rifat Hamoudi
 #
 # COMETvintage : template R script for DMC analysis using edgeR
 #
