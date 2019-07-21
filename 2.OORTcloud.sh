@@ -3,7 +3,7 @@
 #
 # COMETgazer suite for methylation analysis
 # 
-# By: Emanuele Libertini
+# By: Emanuele Libertini & Rifat Hamoudi
 #
 # OORTcloud : bash script for counting COMET distributions according to methylation level
 #
