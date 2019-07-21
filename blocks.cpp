@@ -3,7 +3,7 @@
 *
 * COMETgazer Software for methylation analysis
 * 
-* By: Emanuele Libertini
+* By: Emanuele Libertini & Rifat Hamoudi
 *
 *
 * blocks.cpp: C++ program assigning CpGs to COMETs
