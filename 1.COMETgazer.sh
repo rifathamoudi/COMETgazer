@@ -4,7 +4,7 @@
 #
 # COMETgazer suite for methylation analysis
 # 
-# By: Emanuele Libertini
+# By: Emanuele Libertini & Rifat Hamoudi
 #
 # COMETgazer : methylome segmentation into COMETs based on OM values
 #
